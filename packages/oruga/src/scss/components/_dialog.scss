@@ -178,30 +178,6 @@ $dialog-zindex: 40 !default;
             width: 2px;
         }
     }
-   /*&.is-small {
-        .dialog-card,
-        .input,
-        .button {
-            @include control-small;
-        }
-    }
-    &.is-medium {
-        .dialog-card,
-        .input,
-        .button {
-            @include control-medium;
-        }
-    }
-    &.is-large {
-        .dialog-card,
-        .input,
-        .button {
-            @include control-large;
-        }
-    }
-    &.has-custom-container {
-        position: absolute;
-    }*/
 }
 
 
